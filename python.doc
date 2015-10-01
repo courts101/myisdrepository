@@ -1,0 +1,81 @@
+Questions:
+
+ 1. What is a code repository (often also called version control system) used for?
+A code repository is a set of direct instructions that are sent to the computer to enable to it to program.
+
+ 2. Why is it advantageous to use a code repository?
+Because using Code repository allows us to store related documents, source codes and other files and documents. 
+ 
+3. Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+The different layers that exist on a typical computer are application software, system software, Hardware and users. There are different layers of software because each layer has a role to play to help a computer run smoothly. Each layer works together to eventually give instructions to the user. 
+
+
+ 4. Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program. 
+A algorithm is a direct set of commands that a computer needs in order to send instructions. It is a useful tool because in order for a pc to carry out its expectations it needs to be able to read the information it’s given in code and translate it to code such as binary form. 
+
+5. Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR. 
+
+1) First crack eggs and pour into Bowl
+2) Whisk eggs in Bowl until eggs are no longer able to whisk
+3) While Egg mix is in Bowl pour oil into frying Pan
+
+4) Wait for frying pan to heat up with oil 
+
+5) Pour Egg mix into frying pan and stir gently 
+6) You can now begin to add extra ingredients such as ham, peppers etc
+
+
+6. Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your 
+answer.
+Idle is both an interpreter and compiler because we know it translates high level language when we type a command in the program languages it translates it into machine language form such as binary. We know it is also an interpreter too because when it turns in into binary form for the machine to understand it then executes it straight away. 
+
+
+For the practical part this lab please save the Python programs that you create and take screenshots of the execution (evaluation) of your programs.
+
+
+1) Write a command in the Idle shell that says “Hello world”
+
+
+
+
+
+2) Write a program that produces the following output: Hello World I am in my ISD class right now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3) Write a program that asks the user for his/her name and produces an output like: 
+
+Hi there, what is your name?
+>User input to be read<
+Hello
+(Users name)
+How are you? 
